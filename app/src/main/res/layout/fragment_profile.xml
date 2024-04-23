@@ -27,7 +27,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
-            android:hint="Login"
+            android:hint="@string/login"
+            android:inputType="text"
             app:startIconDrawable="@drawable/ic_login" >
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
@@ -40,7 +41,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="50dp"
-            android:hint="Password"
+            android:hint="@string/password"
+            android:inputType="textPassword"
             app:startIconDrawable="@drawable/ic_password"
             app:endIconMode="password_toggle"
             >
