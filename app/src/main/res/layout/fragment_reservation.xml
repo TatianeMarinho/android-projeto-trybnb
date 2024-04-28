@@ -2,11 +2,13 @@
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/reservation_frame_layout"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/reservation_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        tools:listitem="@layout/list_item_reservation"
         />
 </FrameLayout>
