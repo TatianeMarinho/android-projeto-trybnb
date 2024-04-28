@@ -7,4 +7,10 @@
     <string name="checkin">Checkin</string>
     <string name="informacoes">Informações Adicionais</string>
     <string name="moeda">R$</string>
+    <string name="criar_reserva">Criar Reserva</string>
+    <string name="sobrenome">Sobrenome do hóspede</string>
+    <string name="checkout">Checkout</string>
+    <string name="necessidades">Necessidades adicionais</string>
+    <string name="preco_total">Preço total</string>
+    <string name="deposito_pago">Depósito Pago</string>
 </resources>
