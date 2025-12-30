@@ -1,10 +1,23 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+🏠 Trybnb
+
+O Trybnb é uma aplicação mobile inspirada no Airbnb, desenvolvida de forma nativa para Android. O projeto desafia a construção de interfaces sofisticadas e o gerenciamento de grandes volumes de dados, focando em usabilidade e performance na exibição de acomodações.
+
+🚀 O que foi desenvolvido:
+
+RecyclerView Avançado: Implementação de listas performáticas para exibir múltiplos cards de acomodações com imagens e informações detalhadas.
+
+Detalhamento de Itens: Fluxo completo de navegação que permite ao usuário clicar em uma oferta e ver fotos, descrições e preços em uma nova tela.
+
+Design UI/UX: Foco total na fidelidade visual e na experiência de "scroll" fluida, utilizando componentes do Material Design.
+
+Modelagem de Dados: Estruturação de classes Kotlin para representar complexas entidades de imóveis e usuários.
+
+🧰 Tecnologias utilizadas
+
+Kotlin: Linguagem de programação.
+
+RecyclerView: Para listagens otimizadas.
+
+Glide / Picasso: (Se utilizado) Para carregamento e cache de imagens.
+
+Android Jetpack: Componentes modernos de arquitetura Android.
